@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1625810167270,
+  "timestamp": 1625811364175,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.35648502d362da559895.js",
+        "/main.2218fbdcfd2907d50201.js",
         "/manifest.webmanifest",
         "/polyfills.9dbb016f1c58db74c3c8.js",
         "/runtime.0e49e2b53282f40c8925.js",
@@ -30,8 +30,6 @@
       },
       "urls": [
         "/apple-touch-icon.png",
-        "/assets/ngx-rocket-logo.png",
-        "/assets/ngx-rocket-logo@192.png",
         "/fa-brands-400.216edb96b562c79adc09.svg",
         "/fa-brands-400.329a95a9172fdb2cccb4.woff",
         "/fa-brands-400.89a52ae1d02b86d61439.eot",
@@ -53,9 +51,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/apple-touch-icon.png": "229df2094cc590088de00ea97a1eb4e4493101d2",
-    "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
-    "/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "/apple-touch-icon.png": "f3892b7ccf3613b671600c8e3a2314eea6d1c765",
     "/fa-brands-400.216edb96b562c79adc09.svg": "24aff44d36f6c4a6a08230474b546b29641c75d6",
     "/fa-brands-400.329a95a9172fdb2cccb4.woff": "5f8cab91347c553c1eb87f9b527f6bee8a28e40d",
     "/fa-brands-400.89a52ae1d02b86d61439.eot": "a400bc89d3cb4d45a3b90791800587a1e4ebafa6",
@@ -71,9 +67,9 @@
     "/fa-solid-900.ada6e6df937f7e5e8b79.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "/fa-solid-900.c6ec080084769a6d8a34.woff": "52751432ded489dfdf27fb1cf64c570c4c27a1d7",
     "/fa-solid-900.efbd5d20e407bbf85f2b.eot": "b18bdd10beee0a20231aa4c9ea11e84a9307a4fd",
-    "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
-    "/index.html": "dfb729b35898f729e63eba13a5bb0113467a618e",
-    "/main.35648502d362da559895.js": "f4ce39f312def2eba053b3b7bc4c85820930c910",
+    "/favicon.ico": "8306b43001e4dfc24c116344840e621fe98d16f7",
+    "/index.html": "704952ad8497bb471bc958b572c451567c14186e",
+    "/main.2218fbdcfd2907d50201.js": "8da4f422efe87aa41a2dba3eaa969a4f993b4159",
     "/manifest.webmanifest": "6884948d0d35c8ac48f00a331e4b1e0a15ea82ee",
     "/polyfills.9dbb016f1c58db74c3c8.js": "2116a5df20eec4ad4ed41ec4b01aa93e3af1eda4",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
