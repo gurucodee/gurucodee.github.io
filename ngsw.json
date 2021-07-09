@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1625811364175,
+  "timestamp": 1625819566141,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.2218fbdcfd2907d50201.js",
+        "/main.e5a654aa8ae5e29fd032.js",
         "/manifest.webmanifest",
         "/polyfills.9dbb016f1c58db74c3c8.js",
         "/runtime.0e49e2b53282f40c8925.js",
-        "/styles.0a9f93e621ae96c535a7.css"
+        "/styles.3579185dcabc7a03c272.css"
       ],
       "patterns": []
     },
@@ -30,6 +30,8 @@
       },
       "urls": [
         "/apple-touch-icon.png",
+        "/assets/app_bg.jpg",
+        "/assets/logo.png",
         "/fa-brands-400.216edb96b562c79adc09.svg",
         "/fa-brands-400.329a95a9172fdb2cccb4.woff",
         "/fa-brands-400.89a52ae1d02b86d61439.eot",
@@ -52,6 +54,8 @@
   "dataGroups": [],
   "hashTable": {
     "/apple-touch-icon.png": "f3892b7ccf3613b671600c8e3a2314eea6d1c765",
+    "/assets/app_bg.jpg": "2cec056efe77f08500988d7580b75f8abae756a0",
+    "/assets/logo.png": "f3892b7ccf3613b671600c8e3a2314eea6d1c765",
     "/fa-brands-400.216edb96b562c79adc09.svg": "24aff44d36f6c4a6a08230474b546b29641c75d6",
     "/fa-brands-400.329a95a9172fdb2cccb4.woff": "5f8cab91347c553c1eb87f9b527f6bee8a28e40d",
     "/fa-brands-400.89a52ae1d02b86d61439.eot": "a400bc89d3cb4d45a3b90791800587a1e4ebafa6",
@@ -68,12 +72,12 @@
     "/fa-solid-900.c6ec080084769a6d8a34.woff": "52751432ded489dfdf27fb1cf64c570c4c27a1d7",
     "/fa-solid-900.efbd5d20e407bbf85f2b.eot": "b18bdd10beee0a20231aa4c9ea11e84a9307a4fd",
     "/favicon.ico": "8306b43001e4dfc24c116344840e621fe98d16f7",
-    "/index.html": "704952ad8497bb471bc958b572c451567c14186e",
-    "/main.2218fbdcfd2907d50201.js": "8da4f422efe87aa41a2dba3eaa969a4f993b4159",
+    "/index.html": "515d6b75ff273d5ab5a9135281f3f83c9b60263d",
+    "/main.e5a654aa8ae5e29fd032.js": "631b6f910733d364445b2d2d6cd6e9ccc53aca5b",
     "/manifest.webmanifest": "6884948d0d35c8ac48f00a331e4b1e0a15ea82ee",
     "/polyfills.9dbb016f1c58db74c3c8.js": "2116a5df20eec4ad4ed41ec4b01aa93e3af1eda4",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.0a9f93e621ae96c535a7.css": "423cd824592aad46647ceb8f6b4ee0fb23fdefe8"
+    "/styles.3579185dcabc7a03c272.css": "0e126b8b65010bee2f0f9811b190c11ce96d2111"
   },
   "navigationUrls": [
     {
