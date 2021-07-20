@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1626209017030,
+  "timestamp": 1626740824559,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.3fd2328049d871e5c416.js",
+        "/main.c0e928a81a5dad09afcf.js",
         "/manifest.webmanifest",
         "/polyfills.9dbb016f1c58db74c3c8.js",
         "/runtime.0e49e2b53282f40c8925.js",
@@ -33,6 +33,7 @@
         "/assets/1.jpg",
         "/assets/app_bg.jpg",
         "/assets/app_bg_2.jpg",
+        "/assets/favicon.ico",
         "/assets/logo.png",
         "/assets/svgs/application.svg",
         "/assets/svgs/banking.svg",
@@ -93,6 +94,7 @@
     "/assets/1.jpg": "c22204ec4d44327bd1f20e1f79587a043d28741f",
     "/assets/app_bg.jpg": "565e7b3ce2262928e4a1fa597cc23e2a88dd32d8",
     "/assets/app_bg_2.jpg": "e11463ef424699044e8a8e459df4ec58a4c8bbca",
+    "/assets/favicon.ico": "8306b43001e4dfc24c116344840e621fe98d16f7",
     "/assets/logo.png": "f3892b7ccf3613b671600c8e3a2314eea6d1c765",
     "/assets/svgs/application.svg": "9a2e12aa652672d6c7d04a98610277e85f8dd416",
     "/assets/svgs/banking.svg": "ffad250bc0f77406ca141c61a74079d278946c0f",
@@ -144,8 +146,8 @@
     "/fa-solid-900.c6ec080084769a6d8a34.woff": "52751432ded489dfdf27fb1cf64c570c4c27a1d7",
     "/fa-solid-900.efbd5d20e407bbf85f2b.eot": "b18bdd10beee0a20231aa4c9ea11e84a9307a4fd",
     "/favicon.ico": "8306b43001e4dfc24c116344840e621fe98d16f7",
-    "/index.html": "691d7a6dededeaf5751c7a05ff18938c37b27ed4",
-    "/main.3fd2328049d871e5c416.js": "0030d765a4f01763bff69bddd57df34e66711615",
+    "/index.html": "1a9ec9ce36c049cfc670b20d4ba42d514bf940ca",
+    "/main.c0e928a81a5dad09afcf.js": "441b6b13c9dfa951060ad0bf0ca57ca089b70c0f",
     "/manifest.webmanifest": "6884948d0d35c8ac48f00a331e4b1e0a15ea82ee",
     "/polyfills.9dbb016f1c58db74c3c8.js": "2116a5df20eec4ad4ed41ec4b01aa93e3af1eda4",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
