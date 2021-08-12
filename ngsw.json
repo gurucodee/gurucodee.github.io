@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1628669990623,
+  "timestamp": 1628755175389,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.0129cfd2775b3c4f3451.js",
+        "/main.4c4ff5b69fd43b8ac3a1.js",
         "/manifest.webmanifest",
         "/polyfills.9dbb016f1c58db74c3c8.js",
         "/runtime.0e49e2b53282f40c8925.js",
@@ -73,6 +73,7 @@
         "/assets/techno_logos/python.svg",
         "/assets/techno_logos/vue.svg",
         "/assets/techno_logos/wp.png",
+        "/assets/vectors/contact_vector.png",
         "/assets/vectors/home_vector.png",
         "/assets/vectors/services_vector.png",
         "/fa-brands-400.216edb96b562c79adc09.svg",
@@ -140,6 +141,7 @@
     "/assets/techno_logos/python.svg": "fb7d6c52c0cf569e2f3e5227b8902ec9bee6065f",
     "/assets/techno_logos/vue.svg": "3f890da8f2a83489a99819db51ab3c8f21996f1c",
     "/assets/techno_logos/wp.png": "507a6ac3a84400172686cec9511965f01b81079a",
+    "/assets/vectors/contact_vector.png": "a661613fafca717d85b8a3fd437e7c5e82c533dd",
     "/assets/vectors/home_vector.png": "e989934eb7e01a645ed54569b1898cdb3d79911e",
     "/assets/vectors/services_vector.png": "65e84e869c0bd93ca1c244d473c82bb7f8778655",
     "/fa-brands-400.216edb96b562c79adc09.svg": "24aff44d36f6c4a6a08230474b546b29641c75d6",
@@ -158,8 +160,8 @@
     "/fa-solid-900.c6ec080084769a6d8a34.woff": "52751432ded489dfdf27fb1cf64c570c4c27a1d7",
     "/fa-solid-900.efbd5d20e407bbf85f2b.eot": "b18bdd10beee0a20231aa4c9ea11e84a9307a4fd",
     "/favicon.ico": "8306b43001e4dfc24c116344840e621fe98d16f7",
-    "/index.html": "94754a33dbbe379e45e1c2b762f1d1591d005b57",
-    "/main.0129cfd2775b3c4f3451.js": "5619b7e73c8207370f31cd1e0547efd392dee9ca",
+    "/index.html": "89586319826c94f3d5e41e9cc36486d8037b523a",
+    "/main.4c4ff5b69fd43b8ac3a1.js": "22849eebfbfcb871b65f5dbb6d2229719bb81583",
     "/manifest.webmanifest": "6884948d0d35c8ac48f00a331e4b1e0a15ea82ee",
     "/polyfills.9dbb016f1c58db74c3c8.js": "2116a5df20eec4ad4ed41ec4b01aa93e3af1eda4",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
